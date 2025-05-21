@@ -18,7 +18,7 @@ I'm currently studying:D
 # 📊 GitHub Stats:
 
 
-<img align="right" alt="Coding" width="350" height="450" src="https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
+<img align="right" alt="Coding" width="320" height="450" src="https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj710&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj710" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=DatLmao&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
