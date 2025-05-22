@@ -47,7 +47,7 @@ I'm currently studying:D
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatLmao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DatLmao&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DatLmao&icon=0&color=0)]
 
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://xrman.me)
 
