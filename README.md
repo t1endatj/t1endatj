@@ -11,7 +11,28 @@ I'm currently studying:D
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"><br/>
+      <span style="color:white">C++</span>
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"><br/>
+      <span style="color:white">JavaScript</span>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"><br/>
+      <span style="color:white">GitHub</span>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"><br/>
+      <span style="color:white">Git</span>
+    </td>
+  </tr>
+</table>
+
 
 
 
