@@ -49,7 +49,7 @@ I'm currently studying:D
 ---
 [![](https://visitcount.itsvg.in/api?id=DatLmao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 ![snake gif](https://github.com/DatLmao/DatLmao/blob/output/github-snake-dark.svg)
 
