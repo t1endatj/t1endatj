@@ -190,18 +190,6 @@
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <a href="https://github.com/t1endatj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1endatj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=056BAC&fire=00F0FF&currStreakNum=00F0FF" alt="Dat's GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/t1endatj">
-    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=t1endatj&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=056BAC&point=00F0FF&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
-  </a>
 </div>
 
 ---
